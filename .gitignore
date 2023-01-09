@@ -1,0 +1,5 @@
+api/__pycache__
+sketch2code/host/__pycache__
+sketch2code/host/inference/__pycache__
+sketch2code/inference/__pycache__
+sketch2code/model_weights
